@@ -1,0 +1,52 @@
+h1. Demande de création d'une nouvelle instance de développement
+
+
+Sujet : 
+
+[CLIENT/projet] Création nouvelle PF de DEV Iliad
+
+
+Description 
+
+h2. Informations sur le projet :
+
+| NOM DU CLIENT | |
+| NOM DU PROJET ||
+| Dépôt github | CLIENT-Projet-Techno |
+| URL DEV | dev.NOMCOURTPROJET.dev.novactive.net |
+| URL QUALIF | qualif.NOMCOURTPROJET.dev.novactive.net |
+
+---
+
+h2. information sur l'hébergement de PROD
+
+A demander  au clien.
+Merci de joindre le devis signé si existant. 
+
+|Hébergeur| nom_hebergeur |
+|Type d'hébergement| mutualisé/dédié |
+|Type de serveur|physique/virtuel|
+|Accès possible| FTP SSH ...|
+|Contact technique| |
+|Contact relation client| |
+
+|SPECIFICITE | NOM | VERSION |
+| SYSTEME D'EXPLOITATION | |
+| SERVEUR WEB  |  | |
+| TECHNO (CMS) |  | |
+| BASE DE DONNEES| | |
+
+Liste des modules PHP installe en production : 
+
+
+h3. Site 
+
+| NOM DE DOMAINE PRINCIPAL | XXX |
+|ALIAS| |
+
+---
+
+h2. Environnement de developement:
+
+|NOM|PRENOM |
+||||
