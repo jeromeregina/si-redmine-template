@@ -1,0 +1,11 @@
+sujet
+
+[CLIENT/projet] creation d'un nouvel environnement - p.nom
+
+Descritption
+
+|CLIENT||
+|projet||
+|URL de reference ||
+|BDD separe|(oui/non)||
+|URI /mockup| (oui/non)| 
