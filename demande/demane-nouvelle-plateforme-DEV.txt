@@ -1,12 +1,8 @@
-h1. Demande de création d'une nouvelle instance de développement
-
-
 Sujet : 
 
 [CLIENT/projet] Création nouvelle PF de DEV Iliad
 
-
-Description 
+Description :
 
 h2. Informations sur le projet :
 
@@ -38,7 +34,6 @@ Merci de joindre le devis signé si existant.
 
 Liste des modules PHP installe en production : 
 
-
 h3. Site 
 
 | NOM DE DOMAINE PRINCIPAL | XXX |
@@ -48,5 +43,6 @@ h3. Site
 
 h2. Environnement de developement:
 
-|NOM|PRENOM |
-||||
+* lead dev : p.nom
+* developpeur1 : p.nom 
+* ...
