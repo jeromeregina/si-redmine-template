@@ -1,0 +1,17 @@
+# ---------
+# Novactive
+# ---------
+# Temp file 
+*~
+*.bak
+.php~
+*.swp
+# IDE specifics
+composer.phar
+.idea
+.DS_Store
+/nbproject/
+/.idea/
+.buildpath
+.project
+.settings/

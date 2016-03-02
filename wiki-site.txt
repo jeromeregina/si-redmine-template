@@ -1,0 +1,227 @@
+h1.  Nom du SITE 
+
+h2. Contact
+
+---
+
+h3. Contacts client
+
+* Prénom 
+* NOM :
+* Intitulé du poste : 
+* mail :
+* Tel :
+
+h3. Contact Novatcive
+
+* Prénom :
+* NOM :
+* Intitulé du poste : 
+* mail :
+* Tel :
+
+* Liste de diffusion : 
+
+---
+
+h2. Informations FONCTIONNELLES
+
+
+---
+
+h2. Informations TECHNIQUES
+
+h3. URLs
+
+|/2.%{background:red}PRODUCTION%| front-office | |
+|back-office |  (id: / pwd: )|
+|/2.%{background:orange}PREPRODUCTION%| front-office | |
+|back-office |  (id: / pwd: )|
+|/2.%{background:yellow}QUALIF%| front-office ||
+|back-office |   (id: / pwd: )|
+|/2.%{background:lightgreen}DEV% |front-office ||
+|back-office | (id: / pwd: )|
+
+---
+{{collapse(Plateforme de PRODUCTION)
+
+h2. PRODUCTION
+
+h3. Schéma d'architecture
+
+> ICI importer le schéma
+
+h3. Accès HTTP
+
+|/2.%{background:red}PRODUCTION%| front-office | |
+|back-office |  |
+
+_Information d'accès au back-office_
+|Identifiant| |
+|Mot de passe||
+
+h3. Accès SSH
+
+_Compte administrateur_
+
+|host ||
+|port||
+|user||
+|password||
+|home||
+
+_Compte de deploiement_
+
+|host ||
+|port||
+|user||
+|password||
+|home||
+
+
+|SSH public key||
+|PassPhrase||
+
+h3. Accès MySQL
+
+_applicatif_
+
+|user||
+|password||
+|host||
+|port||
+|privileges| |
+|on||
+|from||
+
+h3. Accès spécifiques
+
+h3. Gestion des erreurs/incident 
+
+|Date |Heure Début|Heure  Fin|Incident |Type | Résolution | Ticket |Document |
+|||||||||
+
+}}
+
+---
+
+{{collapse(Plateforme de PREPRODUCTION)
+
+h2. PREPRODUCTON
+
+h3. Information d'architecture
+
+> ICI importer le schéma
+
+
+h3. Accès HTTP
+
+|/2.%{background:orange}PREPRODUCTION%| front-office | |
+|back-office |  |
+
+_Information d'accès au back-office_
+|Identifiant| |
+|Mot de passe||
+
+h3. Accès SSH
+
+_Compte de déploiement_
+
+|ip||
+|port||
+|user||
+|password||
+|home||
+
+_Compte administrateur fournis par Verizon_
+
+|ip ||
+|port||
+|user||
+|password||
+|home||
+
+
+h3. Accès MySQL
+
+_Compte adminsitrateur_
+
+|ip| |
+|port||
+|user||
+|password| |
+|privileges| |
+|on||
+|from||
+
+_Compte applicatif_
+
+|ip||
+|port||
+|user| |
+|password||
+|privileges||
+|on||
+|from||
+
+h3. Accès Spécifiques 
+
+h3. Gestion des erreurs/incident 
+
+|Date |Heure Début|Heure  Fin|Incident |Type | Résolution | Ticket |Document |
+|||||||||
+
+
+}}
+
+---
+
+{{collapse(Plateforme de DEV)
+
+h2. DEV
+
+> ICI le lien vers la page wiki de d'environnement dev/qualif du projet
+
+h3. URLs
+
+|/2.%{background:yellow}QUALIF%| front-office ||
+|back-office |   (id: / pwd: )|
+|/2.%{background:lightgreen}DEV% |front-office ||
+|back-office | (id: / pwd: )|
+
+h3. Description Plate-forme :
+
+| Hébergeur |ILIAD|
+| Localisation|Vitry|
+|Commentaire|
+
+
+h3. Configuration des serveurs :
+
+| Description | Serveur Web + bdd|
+| Nom d'hote | dev-nomclient-front1|
+|admin| 172.16.43.XXX/16 |
+|prod | 10.42.1.XXX/24 |
+| CPU (core) | 1|
+| RAM| 2Go|
+| Storage| |
+|OS| Debian x / CentOS x|
+|PHP| |
+|MySQL/MariaDB||
+|Apache/NGinX||
+
+h3. Accès Spécifiques 
+
+h3. Gestion des erreurs/incident 
+
+|Date |Heure Début|Heure  Fin|Incident |Type | Résolution | Ticket |Document |
+|||||||||
+
+
+}}
+
+---
+
+h2. Procédure particulière
+
+>  ICI on doit retrouver entre autre, la procédure de MEP, la procédure de MEPP  

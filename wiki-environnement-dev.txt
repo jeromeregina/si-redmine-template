@@ -1,0 +1,61 @@
+h1. nom projet
+
+|Serveur | dev-nomclient-front1|
+|Demande | http://hosting.novactive.net/issues/|
+|wiki SITE| |
+|Room HipChat| |
+
+h2. Environnement de DEV
+
+ |http://dev.nomprojet.dev.novactive.net|
+
+ *SSH*
+ |Host| dev.novactive.net |
+ |user| dev |
+ |Password||
+ |Port| 244|
+
+ *MySQL*
+ |Host|dev.novactive.net|
+ |User | dev |
+ |Password| |
+ |Port|344 |
+
+ h2. Environnement de QUALIF
+
+ |http://qualif.nomprojet.dev.novactive.net|
+
+ *SSH*
+ |Host| dev.novactive.net |
+ |user| qualif |
+ |Password| |
+ |Port|244 |
+
+ *MySQL*
+ |Host|dev.novactive.net|
+ |User |qualif  |
+ |Password| |
+ |Port|344|
+
+ h2. Les développeurs du projet
+
+|Compte système/mysql| URL de l'environnement|
+||nomprojet.dev.novactive.net| *LEAD*|
+||nomprojet.dev.novactive.net|
+
+
+ h2. Compte administrateur back-office
+
+|URI|  |
+|Utilisateur|  |
+|Mot de passe|  |
+
+ h3. VCS
+
+ *Bitbucket*
+ |HTTPs||
+ |SSH||
+
+h3. Clés de déploiement
+
+|clé publique||
