@@ -6,6 +6,7 @@ Descritption
 
 |CLIENT||
 |projet||
-|URL de reference ||
-|BDD separe|(oui/non)||
-|URI /mockup| (oui/non)| 
+|Environnement de reference ||
+|BDD separe ?|(oui/non)||
+|URI /mockup ?| (oui/non)| 
+
