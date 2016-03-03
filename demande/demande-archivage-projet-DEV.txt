@@ -1,0 +1,34 @@
+sujet
+
+[Archivage/Suppression] DEV - nom_vm - nom_projet
+
+description
+
+*INFO*
+
+|Environnement de qualif| http://qualif.$NOMPROJET.dev.novactive.net|
+|Environnement de dev| http://dev.$NOMPROJET.dev.novactive.net|
+|URL du dépôt| |
+|wiki du projet| |
+
+*A FAIRE*
+* Migrer le dépôt Github vers Bitbucket
+* Archiver les environnement dev et qualif
+* L'archive  doit se nommer _nomprojet.dev.novactive.net.zip_
+** L'archive doit contenir
+*** un répertoire sources contenant les répertoire projet 
+*** un répertoire SQL contenant le dump SQL et sa somme md5
+*** un répertoire vhost contenant les vhost de dev et qualif ainsi que les configuration inclues
+*** un répertoire PHP contenant les configuration php CLI et Apache
+* L'archive et sa somme md5 doit être mise à disposition sur Antares à l'emplacement \Archives-WWW\NOMCLIENT\DEV\
+* Révoquer la VM de Puppet 
+* Supprimer sa configuration dans le manifeste Puppet de DEV
+* Supprimer la condition au niveau du reverse proxy Nginx
+* Supprimer l'entrée DNS si existante.
+* Éteindre la VM
+* Mettre à jours le "wiki":https://novactive.easyredmine.com/projects/novactive-hosting-dev/wiki
+* Mettre à jours le référentiel 
+* Ajouté  une alerte Google Agenda pour suppression de la VM à +7j 
+  
+*A FAIRE à +7j*
+* Suppression de la VM
