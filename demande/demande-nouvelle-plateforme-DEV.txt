@@ -6,9 +6,9 @@ Description :
 
 h2. Informations sur le projet :
 
-| Client | | |
-| Site | | |
-|Nom court du projet| monsite-techno| Exemple : monsite, monclient (si c'est le site principal), ... |
+| Client | |Nom du client final |
+| Site | |
+|Nom court du projet| | monsite-techno| Exemple : monsite, monclient (si c'est le site principal), ... |
 |Techno | | Renseigner ici la techno principale du site : eZ publish 4 ou 5, Symfony, Drupal 7... |
 
 ---
