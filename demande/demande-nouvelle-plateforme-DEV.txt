@@ -6,8 +6,10 @@ Description :
 
 h2. Informations sur le projet :
 
-| NOM DU CLIENT FINAL| |
-| NOM DU PROJET ||
+| Client | | |
+| Site | | |
+|Nom court du projet| monsite-techno| Exemple : monsite, monclient (si c'est le site principal), ... |
+|Techno | | Renseigner ici la techno principale du site : eZ publish 4 ou 5, Symfony, Drupal 7... |
 
 ---
 
@@ -23,11 +25,11 @@ h2. information sur l'hébergement de PRODUCTION +CIBLE+
 |Contact technique| |
 |Contact relation client| |
 
-|SPECIFICITE | NOM | VERSION |
-| SYSTEME D'EXPLOITATION | | |
-| SERVEUR WEB  |  | |
-| TECHNO (CMS) |  | |
-| SGBD| | |
+|Spécificité | Nom | Version |
+| Systeme d'exploitation | Debian ou Windows ou JNSP|
+| Serveur Web | Apache ou Ngnix ou Autre ou JNSP | |
+| Technologie (CMS) | eZ Publish, Drupal, Symfony, Wordpress | |
+| Base de données | MySQL, MongoDb, SQLServer | |
 
 Liste des modules PHP installe en production : 
 
