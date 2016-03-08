@@ -8,11 +8,10 @@ h2. Informations sur le projet :
 
 | NOM DU CLIENT FINAL| |
 | NOM DU PROJET ||
-| URL DEV | dev.NOMCOURTPROJET.dev.novactive.net |
 
 ---
 
-h2. information sur l'hébergement de PROD
+h2. information sur l'hébergement de PRODUCTION +CIBLE+
 
 > A demander au client.
 
@@ -28,7 +27,7 @@ h2. information sur l'hébergement de PROD
 | SYSTEME D'EXPLOITATION | | |
 | SERVEUR WEB  |  | |
 | TECHNO (CMS) |  | |
-| BASE DE DONNEES| | |
+| SGBD| | |
 
 Liste des modules PHP installe en production : 
 
@@ -39,8 +38,15 @@ h3. Site
 
 ---
 
-h2. Environnement de developement:
+h2. Information sur les developpeurs:
+
+h3. Developpeur Novactive
 
 * lead dev : p.nom
 * developpeur1 : p.nom 
 * ...
+
+h3. Developpeur externe
+
+|societe|e-mail|Prenom|NOM| IP publique (http://monip.org)|ID Bitbucket |
+|||||||
