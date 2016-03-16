@@ -13,17 +13,28 @@ h2. Informations sur le projet :
 
 ---
 
-h2. information sur l'hébergement de PRODUCTION +CIBLE+
-
-> A demander au client.
+h2. information sur l'wnvironnement de PRODUCTION +CIBLE+
 
 +joindre le devis signé si existant+
 
+h3. Contact technique
+
+> Il s'agit ici de la personne en charge de l'hebergement ou habilite a soumettre des demande a l'hebergeur.
+
+* NOM :
+* Prenom :
+* Intitule du poste :
+* Adresse mail :
+
+
+h3. Hebergement
+
+> Il s'agit ici d'obtenir du client l'ensemble des informations sur l'hebergement de PROD cible,
+> nous permettant de creer un environnement de DEV identique.
+
 |Hébergeur| nom_hebergeur |
 |Type d'hébergement| mutualisé/dédié |
-|Type de serveur|physique/virtuel|
-|Contact technique| |
-|Contact relation client| |
+|Type de serveur|physique/virtuel||
 
 |Spécificité | Nom | Version |
 | Systeme d'exploitation | Debian ou Windows ou JNSP|
@@ -31,12 +42,19 @@ h2. information sur l'hébergement de PRODUCTION +CIBLE+
 | Technologie (CMS) | eZ Publish, Drupal, Symfony, Wordpress | |
 | Base de données | MySQL, MongoDb, SQLServer | |
 
-Liste des modules PHP installe en production : 
+Liste des ppaquetages PHP installe en production : 
 
 h3. Site 
 
 | NOM DE DOMAINE PRINCIPAL | |
 |ALIAS| |
+
+h3. Divers 
+
+* Avons-nous l'infogerance de l'hebergement de PROD cible ? <oui/non/jnsp>
+* Le client gere-t-il le nom de domaine principal (si existant) ? <oui/non/jnsp> 
+* Avons-nous des acces a l'hebergement de PROD actuel (si existant) ? <oui/non/jnsp>
+* Est-il prevu de travailler avec des developpeurs externes ? <oui/non/jnsp>
 
 ---
 
