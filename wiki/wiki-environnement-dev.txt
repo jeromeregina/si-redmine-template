@@ -1,5 +1,3 @@
-h1. nom projet
-
 |Serveur | dev-nomclient-front1|
 |Demande | https://novactive.easyredmine.com/issues/<numeroticket>|
 |wiki SITE| |
@@ -40,9 +38,9 @@ h2. Environnement de QUALIF
 
 h2. Les développeurs du projet
 
-|Compte système/mysql| URL de l'environnement|
-||http://<nomprojet>.dev.novactive.net| *LEAD*|
-||http://<nomprojet>.dev.novactive.net|
+| URL de l'environnement|
+|http://<nomprojet>.dev.novactive.net| *LEAD*|
+|http://<nomprojet>.dev.novactive.net|
 
 
 h2. Compte administrateur back-office
