@@ -1,77 +1,77 @@
-Sujet : 
+Sujet :
 
 [CLIENT/projet] Création nouvelle PF de DEV Iliad
 
 Description :
 
-> Les valeurs "<ABC>" sont a remplacer
+> Les valeurs "<ABC>" sont à remplacer
 
 h2. Informations sur le projet :
 
 |Client | <NOM_CLIENT_FINAL> |
 |Site |<URL> |
 |Nom du projet| <NOM>|
-|Techno |<NOM>| 
+|Techno |<NOM>|
 
 ---
 
-h2. information sur l'wnvironnement de PRODUCTION +CIBLE+
+h2. information sur l'environnement de PRODUCTION +CIBLE+
 
 +joindre le devis signé si existant+
 
 h3. Contact technique
 
-> Il s'agit ici de la personne en charge de l'hebergement ou habilite a soumettre des demande a l'hebergeur.
+> Il s'agit ici de la personne en charge de l'hébergement ou habilite à soumettre des demandes à l'hébergeur.
 
 |NOM |<NOM>|
-| Prenom |<PRENOM|>
-|Intitule du poste |<INTITULE>|
+| Prénom |<PRENOM|>
+|Intitulé du poste |<INTITULE>|
 | Adresse mail |<MAIL>|
 
 
 h3. Hebergement
 
-> Il s'agit ici d'obtenir du client l'ensemble des informations sur l'hebergement de PROD cible,
-> nous permettant de creer un environnement de DEV identique.
+> Il s'agit ici d'obtenir du client l'ensemble des informations sur l'hébergement de PROD cible,
+> nous permettant de créer un environnement de DEV identique.
 
 |Hébergeur| <NOM> |
 |Type d'hébergement | <MUTUALISE/DEDIE> |
 |Type de serveur|<PHYSIQUE/VM>|
 
 |Spécificité | Nom | Version |
-|Systeme d'exploitation |<NOM> |<VERSION> |
+|Système d'exploitation |<NOM> |<VERSION> |
 |Service Web | <NOM> |<VERSION> |
 |Service de BDD |<NOM> |<VERSION> |
 |Language| PHP | <VERSION>|
 |Technologie (CMS) | <NOM> |<VERSION> |
 
-Liste des ppaquetages PHP installe en production : 
+Liste des paquetages PHP installés en production :
 
-h3. Site 
+h3. Site
 
 |URL FRONT |<URL>|
 |URL BACK |<URL>|
 
-h3. Divers 
+h3. Divers
 
-> jnsp =  je ne sais pas 
+> jnsp =  je ne sais pas
 
-* Avons-nous l'infogerance de l'hebergement de PROD cible ? <oui/non/jnsp>
-* Le client gere-t-il les nom de domaine (si existant) ? <oui/non/jnsp> 
-* Avons-nous des acces a l'hebergement de PROD actuel (si existant) ? <oui/non/jnsp>
-* Est-il prevu de travailler avec des developpeurs externes ? <oui/non/jnsp>
+* Avons-nous l'infogérance de l'hébergement de PROD cible ? <oui/non/jnsp>
+* Le client gère-t-il les nom de domaine (si existant) ? <oui/non/jnsp>
+* Avons-nous des accès à l'hébergement de PROD actuel (si existant) ? <oui/non/jnsp>
+* Est-il prévu de travailler avec des développeurs externes ? <oui/non/jnsp>
 
 ---
 
-h2. Information sur les developpeurs:
+h2. Information sur les développeurs:
 
-h3. Developpeur Novactive
+h3. Développeur Novactive
 
 * lead dev : p.nom
-* developpeur1 : p.nom 
+* developpeur1 : p.nom
 * ...
 
-h3. Developpeur externe
+h3. Développeur externe
 
-|societe|e-mail|Prenom|NOM| IP publique (http://monip.org)|ID Bitbucket |
+|société|e-mail|Prénom|NOM| IP publique (http://monip.org)|ID Bitbucket |
 |<SOCIETE>|<EMAIL>|<PRENOM>|<NOM>|<IP>|<IDBITBUCKET>|

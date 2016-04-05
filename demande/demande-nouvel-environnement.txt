@@ -1,12 +1,11 @@
 sujet
 
-[CLIENT/projet] creation d'un nouvel environnement - p.nom
+[CLIENT/projet] création d'un nouvel environnement - p.nom
 
-Descritption
+Description
 
 |CLIENT||
 |projet||
-|Environnement de reference ||
-|BDD separe ?|(oui/non)||
-|URI /mockup ?| (oui/non)| 
-
+|Environnement de référence ||
+|BDD séparée ?|(oui/non)||
+|URI /mockup ?| (oui/non)|
