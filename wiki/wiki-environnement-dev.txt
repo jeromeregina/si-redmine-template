@@ -1,8 +1,8 @@
 |Serveur | dev-nomclient-front1|
-|Demande | https://novactive.easyredmine.com/issues/<numeroticket>|
+|Demande | https://novactive.easyredmine.com/issues/<numéroticket>|
 |wiki SITE| |
 |Room HipChat|<CLIENT>/<nomprojet> |
-|URL du depot||
+|URL du dépôt||
 
 h2. Environnement de DEV
 
