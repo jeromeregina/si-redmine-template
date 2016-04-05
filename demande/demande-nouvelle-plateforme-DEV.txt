@@ -4,12 +4,14 @@ Sujet :
 
 Description :
 
+> Les valeurs "<ABC>" sont a remplacer
+
 h2. Informations sur le projet :
 
-| Client | |Nom du client final |
-| Site | |
-|Nom court du projet| | monsite-techno| Exemple : monsite, monclient (si c'est le site principal), ... |
-|Techno | | Renseigner ici la techno principale du site : eZ publish 4 ou 5, Symfony, Drupal 7... |
+|Client | <NOM_CLIENT_FINAL> |
+|Site |<URL> |
+|Nom du projet| <NOM>|
+|Techno |<NOM>| 
 
 ---
 
@@ -21,10 +23,10 @@ h3. Contact technique
 
 > Il s'agit ici de la personne en charge de l'hebergement ou habilite a soumettre des demande a l'hebergeur.
 
-* NOM :
-* Prenom :
-* Intitule du poste :
-* Adresse mail :
+|NOM |<NOM>|
+| Prenom |<PRENOM|>
+|Intitule du poste |<INTITULE>|
+| Adresse mail |<MAIL>|
 
 
 h3. Hebergement
@@ -32,27 +34,30 @@ h3. Hebergement
 > Il s'agit ici d'obtenir du client l'ensemble des informations sur l'hebergement de PROD cible,
 > nous permettant de creer un environnement de DEV identique.
 
-|Hébergeur| nom_hebergeur |
-|Type d'hébergement| mutualisé/dédié |
-|Type de serveur|physique/virtuel||
+|Hébergeur| <NOM> |
+|Type d'hébergement | <MUTUALISE/DEDIE> |
+|Type de serveur|<PHYSIQUE/VM>|
 
 |Spécificité | Nom | Version |
-| Systeme d'exploitation | Debian ou Windows ou JNSP|
-| Serveur Web | Apache ou Ngnix ou Autre ou JNSP | |
-| Technologie (CMS) | eZ Publish, Drupal, Symfony, Wordpress | |
-| Base de données | MySQL, MongoDb, SQLServer | |
+|Systeme d'exploitation |<NOM> |<VERSION> |
+|Service Web | <NOM> |<VERSION> |
+|Service de BDD |<NOM> |<VERSION> |
+|Language| PHP | <VERSION>|
+|Technologie (CMS) | <NOM> |<VERSION> |
 
 Liste des ppaquetages PHP installe en production : 
 
 h3. Site 
 
-| NOM DE DOMAINE PRINCIPAL | |
-|ALIAS| |
+|URL FRONT |<URL>|
+|URL BACK |<URL>|
 
 h3. Divers 
 
+> jnsp =  je ne sais pas 
+
 * Avons-nous l'infogerance de l'hebergement de PROD cible ? <oui/non/jnsp>
-* Le client gere-t-il le nom de domaine principal (si existant) ? <oui/non/jnsp> 
+* Le client gere-t-il les nom de domaine (si existant) ? <oui/non/jnsp> 
 * Avons-nous des acces a l'hebergement de PROD actuel (si existant) ? <oui/non/jnsp>
 * Est-il prevu de travailler avec des developpeurs externes ? <oui/non/jnsp>
 
@@ -69,4 +74,4 @@ h3. Developpeur Novactive
 h3. Developpeur externe
 
 |societe|e-mail|Prenom|NOM| IP publique (http://monip.org)|ID Bitbucket |
-|||||||
+|<SOCIETE>|<EMAIL>|<PRENOM>|<NOM>|<IP>|<IDBITBUCKET>|
