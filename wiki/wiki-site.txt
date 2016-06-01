@@ -1,4 +1,4 @@
-h1.  Nom du SITE 
+h1.  Nom du SITE
 
 h2. Contact
 
@@ -6,21 +6,21 @@ h2. Contact
 
 h3. Contacts client
 
-* Prénom 
+* Prénom
 * NOM :
-* Intitulé du poste : 
+* Intitulé du poste :
 * mail :
 * Tel :
 
-h3. Contact Novatcive
+h3. Contact Novactive
 
 * Prénom :
 * NOM :
-* Intitulé du poste : 
+* Intitulé du poste :
 * mail :
 * Tel :
 
-* Liste de diffusion : 
+* Liste de diffusion :
 
 ---
 
@@ -70,7 +70,7 @@ _Compte administrateur_
 |password||
 |home||
 
-_Compte de deploiement_
+_Compte de déploiement_
 
 |host ||
 |port||
@@ -96,7 +96,7 @@ _applicatif_
 
 h3. Accès spécifiques
 
-h3. Gestion des erreurs/incident 
+h3. Gestion des erreurs/incident
 
 |Date |Heure Début|Heure  Fin|Incident |Type | Résolution | Ticket |Document |
 |||||||||
@@ -164,9 +164,9 @@ _Compte applicatif_
 |on||
 |from||
 
-h3. Accès Spécifiques 
+h3. Accès Spécifiques
 
-h3. Gestion des erreurs/incident 
+h3. Gestion des erreurs/incidents
 
 |Date |Heure Début|Heure  Fin|Incident |Type | Résolution | Ticket |Document |
 |||||||||
@@ -199,7 +199,7 @@ h3. Description Plate-forme :
 h3. Configuration des serveurs :
 
 | Description | Serveur Web + bdd|
-| Nom d'hote | dev-nomclient-front1|
+| Nom d'hôte | dev-nomclient-front1|
 |admin| 172.16.43.XXX/16 |
 |prod | 10.42.1.XXX/24 |
 | CPU (core) | 1|
@@ -210,9 +210,9 @@ h3. Configuration des serveurs :
 |MySQL/MariaDB||
 |Apache/NGinX||
 
-h3. Accès Spécifiques 
+h3. Accès Spécifiques
 
-h3. Gestion des erreurs/incident 
+h3. Gestion des erreurs/incidents
 
 |Date |Heure Début|Heure  Fin|Incident |Type | Résolution | Ticket |Document |
 |||||||||
@@ -224,4 +224,4 @@ h3. Gestion des erreurs/incident
 
 h2. Procédure particulière
 
->  ICI on doit retrouver entre autre, la procédure de MEP, la procédure de MEPP  
+>  ICI on doit retrouver entre autre, la procédure de MEP, la procédure de MEPP
