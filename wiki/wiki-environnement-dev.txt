@@ -5,29 +5,27 @@
 
 h2. Environnement de DEV
 
-|http://dev.<nomprojet>.dev.novactive.net|
+|HTTP|http://dev.<nomprojet>.dev.novactive.net|
 
 *SSH*
 |user| dev |
 |Password||
 |Port| 22|
 
-*MySQL*
-|User | dev |
-|Password| |
-|Port|3306 |
 
 h2. Environnement de QUALIF
 
-|http://qualif.<nomprojet>.dev.novactive.net|
+|HTTP|http://qualif.<nomprojet>.dev.novactive.net|
 
 *SSH*
 |user| qualif |
 |Password| |
 |Port|22 |
 
+h2. Acces a la BDD
+
 *MySQL*
-|User |qualif  |
+|User |<bdd_user>|
 |Password| |
 |Port|3306|
 
