@@ -1,7 +1,6 @@
 |Serveur | dev-nomclient-front1|
 |Demande | https://novactive.easyredmine.com/issues/<numéroticket>|
 |wiki SITE| |
-|Room HipChat|<CLIENT>/<nomprojet> |
 |URL du dépôt||
 
 h2. Environnement de DEV
@@ -9,32 +8,28 @@ h2. Environnement de DEV
 |http://dev.<nomprojet>.dev.novactive.net|
 
 *SSH*
-|Host| dev.novactive.net |
 |user| dev |
 |Password||
-|Port| 244|
+|Port| 22|
 
 *MySQL*
-|Host|dev.novactive.net|
 |User | dev |
 |Password| |
-|Port|344 |
+|Port|3306 |
 
 h2. Environnement de QUALIF
 
 |http://qualif.<nomprojet>.dev.novactive.net|
 
 *SSH*
-|Host| dev.novactive.net |
 |user| qualif |
 |Password| |
-|Port|244 |
+|Port|22 |
 
 *MySQL*
-|Host|dev.novactive.net|
 |User |qualif  |
 |Password| |
-|Port|344|
+|Port|3306|
 
 h2. Les développeurs du projet
 
